@@ -1,0 +1,38 @@
+.heading{
+    background-color: rgb(229, 255, 113);
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    color: rgb(20, 0, 42);
+    font-weight: bold;
+    
+}
+
+
+h3{
+    background-color: rgb(229, 255, 113);
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    color: darkslategrey;
+    box-shadow: 5px 5px 5px pink;
+
+}
+
+.copy_right_footer{
+    background-color:wheat;
+    line-height: 3;
+    color: brown;
+    font-size: 20px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px purple ;
+}
+
